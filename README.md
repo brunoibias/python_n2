@@ -1,1 +1,3 @@
 # python_n2
+
+#N 2 DE LINGUAGEM DE PROGRAMAÇÃO II 2020/2
